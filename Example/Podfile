@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HCIJKMediaFramework_Tests' do
+  pod 'HCIJKMediaFramework', :path => '../'
+  
+  
+end
